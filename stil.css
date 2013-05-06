@@ -1,0 +1,146 @@
+﻿body
+{
+	margin-top: 0px;
+	margin-left: 0px;
+	background-color: #ebecf6;
+	}
+#header
+{
+	background-image: url(labby6.jpg);
+	width: 300px;
+	height: 70px;
+	background-repeat:no-repeat;
+	}	
+#container
+{
+	margin: auto;
+	margin-top: 70px;
+	padding: 5px;
+	width: 350px;
+	background-color: #C0CBE7;
+	border: dotted 1px #648DC7;
+	}
+	
+#messages
+{
+	margin: auto;
+	font-family: Verdana;
+	font-size: 12px;
+	padding: 2px;
+	}	
+	
+#old
+{
+	font-size: 11px;
+	}
+
+.close
+{
+	float:right;
+	}
+	
+.time
+{
+	float:right;
+	margin-right:3px;
+	}
+	
+#old img
+{
+	border-style: none;
+	height: 16px;
+	}
+	
+.messWindow
+{
+	width: 98%;
+	background-color: #8DCB41;
+	border: solid 1px #395f0b;
+	padding: 2px;
+	margin: auto;
+	margin-bottom: 5px;
+	}
+	
+.mess
+{
+	clear: both;
+	padding: 3px 3px 3px 3px;
+	font-style:normal;
+	}	
+	
+.tim
+{
+	font-style: normal;
+	text-align:right;
+	font-size: 9px;
+	color:#2d4b08;
+	padding-right:5px;
+	}
+			
+#nr
+{
+	text-align: right;
+	padding-top: 15px;
+	margin-bottom: 0px;
+	}	
+	
+p 
+{
+	margin: 0px;
+	margin-bottom: 5px;
+	padding: 0px;
+	font-size: 11px;
+	font-style: italic;
+	}	
+	
+
+h1
+{
+	margin-left: 2px;
+	margin-top: 0px;
+	font-family: Bradley Hand ITC;
+	font-weight: bold;
+	}
+
+textarea
+{	
+	font-family: Verdana;
+	font-size: 12px;
+	padding: 3px;
+	width: 98%;
+	margin-left: 0px;
+	border: solid 1px #648DC7;
+	background-color: #EBECF6;
+	}
+	
+#button
+{
+	background-image: url(write.jpg);
+	background-repeat: no-repeat;
+	width: 50px;
+	height: 20px;
+	margin-top: 5px; 
+	margin-left: 295px;
+	}	
+
+img
+{
+	border-style: none;
+}
+#button a
+{
+	text-decoration: none;
+	text-align: center;
+	width: 50px;
+	height: 20px;
+	}
+	
+#button a:link 
+{
+	text-decoration: none;
+	}
+	
+.write
+{ 
+	background-color: #E0EDC5;
+	}	
